@@ -1,0 +1,7 @@
+asztal
+kiadó
+könyvtár
+lap
+ország
+szerző
+támasz
