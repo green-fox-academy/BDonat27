@@ -1,0 +1,1 @@
+SELECT * FROM Person.Person WHERE Person.Person.PersonType = 'EM' AND Person.Person.FirstName = 'John'

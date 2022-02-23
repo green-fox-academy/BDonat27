@@ -1,0 +1,1 @@
+select top 20 * from Person.Person where Person.PersonType='EM'

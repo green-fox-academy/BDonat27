@@ -1,0 +1,2 @@
+select DATEDIFF(DAY,'1989-03-14',GETDATE())
+

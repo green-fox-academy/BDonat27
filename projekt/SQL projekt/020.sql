@@ -1,0 +1,1 @@
+select FirstName, LastName, count(FirstName+LastName)  from Person.Person group by FirstName, LastName having count(FirstName+LastName)>=4 

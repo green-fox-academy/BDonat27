@@ -1,0 +1,1 @@
+select COUNT(distinct FirstName) from Person.Person
